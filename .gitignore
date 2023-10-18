@@ -1,0 +1,2 @@
+cppcuda_tutorial.egg-info/*
+!cppcuda_tutorial.egg-info/*.txt

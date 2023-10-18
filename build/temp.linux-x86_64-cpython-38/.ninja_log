@@ -1,0 +1,7 @@
+# ninja log v5
+0	12013	1697424181526497184	/home/qgli/Research/cppcuda/build/temp.linux-x86_64-cpython-38/interpolation.o	2ee125ae86e4e4e1
+4	11392	1697432177827262006	/home/qgli/Research/cppcuda/build/temp.linux-x86_64-cpython-38/interpolation.o	e1d40b426866af7
+4	21468	1697432187907403122	/home/qgli/Research/cppcuda/build/temp.linux-x86_64-cpython-38/interpolation_kernel.o	dd8a1200c65019fb
+4	11080	1697433186945532442	/home/qgli/Research/cppcuda/build/temp.linux-x86_64-cpython-38/interpolation.o	e1d40b426866af7
+4	11725	1697433873151299623	/home/qgli/Research/cppcuda/build/temp.linux-x86_64-cpython-38/interpolation.o	e1d40b426866af7
+5	25556	1697524750986117453	/home/qgli/Research/cppcuda/build/temp.linux-x86_64-cpython-38/interpolation_kernel.o	dd8a1200c65019fb
